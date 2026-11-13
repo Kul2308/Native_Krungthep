@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: 08e0d5ef842d2954da80b0976a5badea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5940842976835028982
+    second: Surprised Old Man Cane Toss Sprite Sheet_0
+  - first:
+      213: -3055511233303614769
+    second: Surprised Old Man Cane Toss Sprite Sheet_1
+  - first:
+      213: -4085754028569045512
+    second: Surprised Old Man Cane Toss Sprite Sheet_2
+  - first:
+      213: 7848773158016664951
+    second: Surprised Old Man Cane Toss Sprite Sheet_3
+  - first:
+      213: -6964060233840048897
+    second: Surprised Old Man Cane Toss Sprite Sheet_4
+  - first:
+      213: -8021214654913801358
+    second: Surprised Old Man Cane Toss Sprite Sheet_5
+  - first:
+      213: -7255445096563614828
+    second: Surprised Old Man Cane Toss Sprite Sheet_6
+  - first:
+      213: 3487599635520107430
+    second: Surprised Old Man Cane Toss Sprite Sheet_7
+  - first:
+      213: 7321843305205287764
+    second: Surprised Old Man Cane Toss Sprite Sheet_8
+  - first:
+      213: -5230542902114819151
+    second: Surprised Old Man Cane Toss Sprite Sheet_9
+  - first:
+      213: -6326598416593150879
+    second: Surprised Old Man Cane Toss Sprite Sheet_10
+  - first:
+      213: 9218238767747889206
+    second: Surprised Old Man Cane Toss Sprite Sheet_11
+  - first:
+      213: -4981359837944058016
+    second: Surprised Old Man Cane Toss Sprite Sheet_12
+  - first:
+      213: -1579549755296313782
+    second: Surprised Old Man Cane Toss Sprite Sheet_13
+  - first:
+      213: -962774362057143278
+    second: Surprised Old Man Cane Toss Sprite Sheet_14
+  - first:
+      213: -6597015403362276872
+    second: Surprised Old Man Cane Toss Sprite Sheet_15
+  - first:
+      213: 8802037861809690498
+    second: Surprised Old Man Cane Toss Sprite Sheet_16
+  - first:
+      213: 8268783257436721088
+    second: Surprised Old Man Cane Toss Sprite Sheet_17
+  - first:
+      213: -2000393999060318998
+    second: Surprised Old Man Cane Toss Sprite Sheet_18
+  - first:
+      213: -4947394871938056959
+    second: Surprised Old Man Cane Toss Sprite Sheet_19
+  - first:
+      213: -7224874799379526875
+    second: Surprised Old Man Cane Toss Sprite Sheet_20
+  - first:
+      213: -171995776006125508
+    second: Surprised Old Man Cane Toss Sprite Sheet_21
+  - first:
+      213: -6035460774927505155
+    second: Surprised Old Man Cane Toss Sprite Sheet_22
+  - first:
+      213: -7117733370403756911
+    second: Surprised Old Man Cane Toss Sprite Sheet_23
+  - first:
+      213: 8665795949922473203
+    second: Surprised Old Man Cane Toss Sprite Sheet_24
+  - first:
+      213: 646782408273130759
+    second: Surprised Old Man Cane Toss Sprite Sheet_25
+  - first:
+      213: 5298943526484110041
+    second: Surprised Old Man Cane Toss Sprite Sheet_26
+  - first:
+      213: 2622174243687642588
+    second: Surprised Old Man Cane Toss Sprite Sheet_27
+  - first:
+      213: -993642566839930841
+    second: Surprised Old Man Cane Toss Sprite Sheet_28
+  - first:
+      213: -7181314985627336252
+    second: Surprised Old Man Cane Toss Sprite Sheet_29
+  - first:
+      213: -1506894215322997256
+    second: Surprised Old Man Cane Toss Sprite Sheet_30
+  - first:
+      213: -5162638197647970873
+    second: Surprised Old Man Cane Toss Sprite Sheet_31
+  - first:
+      213: -3106696833167226292
+    second: Surprised Old Man Cane Toss Sprite Sheet_32
+  - first:
+      213: -474882413909639980
+    second: Surprised Old Man Cane Toss Sprite Sheet_33
+  - first:
+      213: -5724125151969886389
+    second: Surprised Old Man Cane Toss Sprite Sheet_34
+  - first:
+      213: 3545970609094704962
+    second: Surprised Old Man Cane Toss Sprite Sheet_35
+  - first:
+      213: 8783562340715398648
+    second: Surprised Old Man Cane Toss Sprite Sheet_36
+  - first:
+      213: -7535845482686448678
+    second: Surprised Old Man Cane Toss Sprite Sheet_37
+  - first:
+      213: -294505778173692821
+    second: Surprised Old Man Cane Toss Sprite Sheet_38
+  - first:
+      213: 8448588392839832898
+    second: Surprised Old Man Cane Toss Sprite Sheet_39
+  - first:
+      213: 6411076081654963044
+    second: Surprised Old Man Cane Toss Sprite Sheet_40
+  - first:
+      213: 6578488892852184481
+    second: Surprised Old Man Cane Toss Sprite Sheet_41
+  - first:
+      213: -6472523085078790205
+    second: Surprised Old Man Cane Toss Sprite Sheet_42
+  - first:
+      213: -6487189854399790490
+    second: Surprised Old Man Cane Toss Sprite Sheet_43
+  - first:
+      213: -7971113443419652149
+    second: Surprised Old Man Cane Toss Sprite Sheet_44
+  - first:
+      213: 8321448255595499363
+    second: Surprised Old Man Cane Toss Sprite Sheet_45
+  - first:
+      213: -2400630966868519591
+    second: Surprised Old Man Cane Toss Sprite Sheet_46
+  - first:
+      213: 9000706119534419337
+    second: Surprised Old Man Cane Toss Sprite Sheet_47
+  - first:
+      213: -4759000880913149522
+    second: Surprised Old Man Cane Toss Sprite Sheet_48
+  - first:
+      213: -4559181877422804462
+    second: Surprised Old Man Cane Toss Sprite Sheet_49
+  - first:
+      213: -8979505490847223379
+    second: Surprised Old Man Cane Toss Sprite Sheet_50
+  - first:
+      213: 3632373733361392063
+    second: Surprised Old Man Cane Toss Sprite Sheet_51
+  - first:
+      213: -5334021077354580478
+    second: Surprised Old Man Cane Toss Sprite Sheet_52
+  - first:
+      213: 1493474514030504241
+    second: Surprised Old Man Cane Toss Sprite Sheet_53
+  - first:
+      213: 8855101003547131681
+    second: Surprised Old Man Cane Toss Sprite Sheet_54
+  - first:
+      213: -5212239723689968190
+    second: Surprised Old Man Cane Toss Sprite Sheet_55
+  - first:
+      213: 7946143395992911955
+    second: Surprised Old Man Cane Toss Sprite Sheet_56
+  - first:
+      213: -5111625125684051046
+    second: Surprised Old Man Cane Toss Sprite Sheet_57
+  - first:
+      213: -3517960245895969153
+    second: Surprised Old Man Cane Toss Sprite Sheet_58
+  - first:
+      213: -4452472628090357055
+    second: Surprised Old Man Cane Toss Sprite Sheet_59
+  - first:
+      213: 3666014483549640349
+    second: Surprised Old Man Cane Toss Sprite Sheet_60
+  - first:
+      213: -5489310393581956025
+    second: Surprised Old Man Cane Toss Sprite Sheet_61
+  - first:
+      213: -4222113664082456222
+    second: Surprised Old Man Cane Toss Sprite Sheet_62
+  - first:
+      213: 1238517789245329788
+    second: Surprised Old Man Cane Toss Sprite Sheet_63
+  - first:
+      213: 1018794304274064561
+    second: Surprised Old Man Cane Toss Sprite Sheet_64
+  - first:
+      213: -6124588056985144586
+    second: Surprised Old Man Cane Toss Sprite Sheet_65
+  - first:
+      213: -5729531638300440855
+    second: Surprised Old Man Cane Toss Sprite Sheet_66
+  - first:
+      213: -6777084330536183760
+    second: Surprised Old Man Cane Toss Sprite Sheet_67
+  - first:
+      213: -6947159210624051446
+    second: Surprised Old Man Cane Toss Sprite Sheet_68
+  - first:
+      213: 6713151596936113052
+    second: Surprised Old Man Cane Toss Sprite Sheet_69
+  - first:
+      213: 4477374450945872659
+    second: Surprised Old Man Cane Toss Sprite Sheet_70
+  - first:
+      213: -5956944776818189749
+    second: Surprised Old Man Cane Toss Sprite Sheet_71
+  - first:
+      213: 9196838539731229962
+    second: Surprised Old Man Cane Toss Sprite Sheet_72
+  - first:
+      213: 849152716892038420
+    second: Surprised Old Man Cane Toss Sprite Sheet_73
+  - first:
+      213: -2504064992146951743
+    second: Surprised Old Man Cane Toss Sprite Sheet_74
+  - first:
+      213: 5100039503990603835
+    second: Surprised Old Man Cane Toss Sprite Sheet_75
+  - first:
+      213: -7813434427909159066
+    second: Surprised Old Man Cane Toss Sprite Sheet_76
+  - first:
+      213: -5922325026273163009
+    second: Surprised Old Man Cane Toss Sprite Sheet_77
+  - first:
+      213: -195314809499585777
+    second: Surprised Old Man Cane Toss Sprite Sheet_78
+  - first:
+      213: 4145466968531059654
+    second: Surprised Old Man Cane Toss Sprite Sheet_79
+  - first:
+      213: -1653248820376328975
+    second: Surprised Old Man Cane Toss Sprite Sheet_80
+  - first:
+      213: -2224670249483935313
+    second: Surprised Old Man Cane Toss Sprite Sheet_81
+  - first:
+      213: 1506374828779850653
+    second: Surprised Old Man Cane Toss Sprite Sheet_82
+  - first:
+      213: -8713552243741013126
+    second: Surprised Old Man Cane Toss Sprite Sheet_83
+  - first:
+      213: 5572686318252749637
+    second: Surprised Old Man Cane Toss Sprite Sheet_84
+  - first:
+      213: 3839059299056243966
+    second: Surprised Old Man Cane Toss Sprite Sheet_85
+  - first:
+      213: 6947784847771769109
+    second: Surprised Old Man Cane Toss Sprite Sheet_86
+  - first:
+      213: 4422055297070106297
+    second: Surprised Old Man Cane Toss Sprite Sheet_87
+  - first:
+      213: -1467671967846410416
+    second: Surprised Old Man Cane Toss Sprite Sheet_88
+  - first:
+      213: -752527604617713278
+    second: Surprised Old Man Cane Toss Sprite Sheet_89
+  - first:
+      213: -4106004685829141989
+    second: Surprised Old Man Cane Toss Sprite Sheet_90
+  - first:
+      213: 6802273197844977836
+    second: Surprised Old Man Cane Toss Sprite Sheet_91
+  - first:
+      213: -6687185521896265837
+    second: Surprised Old Man Cane Toss Sprite Sheet_92
+  - first:
+      213: 597836648923172397
+    second: Surprised Old Man Cane Toss Sprite Sheet_93
+  - first:
+      213: -4875778549931679074
+    second: Surprised Old Man Cane Toss Sprite Sheet_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 217
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08bf5bd9c2ed8da0800000000000000
+      internalID: -5940842976835028982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae8bbd8b4a895d0800000000000000
+      internalID: -3055511233303614769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 512
+        width: 239
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f55587bb5c7c47c0800000000000000
+      internalID: -4085754028569045512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 512
+        width: 239
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77544364a917cec60800000000000000
+      internalID: 7848773158016664951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 512
+        width: 253
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff44a8f4d10ba5f90800000000000000
+      internalID: -6964060233840048897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 512
+        width: 309
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27394b205cbeea090800000000000000
+      internalID: -8021214654913801358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd9fb202b7f4b90800000000000000
+      internalID: -7255445096563614828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a335f1f361766030800000000000000
+      internalID: 3487599635520107430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b45db71b96c9560800000000000000
+      internalID: 7321843305205287764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3610171f06967b0800000000000000
+      internalID: -5230542902114819151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c9a6682486338a0800000000000000
+      internalID: -6326598416593150879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surprised Old Man Cane Toss Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638f856a153cdef70800000000000000
+      internalID: 9218238767747889206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5edf54792e0e4184e9d9ac108322e4f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Surprised Old Man Cane Toss Sprite Sheet_0: -5940842976835028982
+      Surprised Old Man Cane Toss Sprite Sheet_1: -3055511233303614769
+      Surprised Old Man Cane Toss Sprite Sheet_10: -6326598416593150879
+      Surprised Old Man Cane Toss Sprite Sheet_11: 9218238767747889206
+      Surprised Old Man Cane Toss Sprite Sheet_2: -4085754028569045512
+      Surprised Old Man Cane Toss Sprite Sheet_3: 7848773158016664951
+      Surprised Old Man Cane Toss Sprite Sheet_4: -6964060233840048897
+      Surprised Old Man Cane Toss Sprite Sheet_5: -8021214654913801358
+      Surprised Old Man Cane Toss Sprite Sheet_6: -7255445096563614828
+      Surprised Old Man Cane Toss Sprite Sheet_7: 3487599635520107430
+      Surprised Old Man Cane Toss Sprite Sheet_8: 7321843305205287764
+      Surprised Old Man Cane Toss Sprite Sheet_9: -5230542902114819151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3869,7 +3869,7 @@ MonoBehaviour:
   restoreAmount: 40
   ultiDmg: 60
   guardCost: 10
-  guardReduction: 0.4
+  guardReduction: 0.6
   ultiGainWhenHit: 10
   chargeMultiplier: 2
 --- !u!4 &1967335892

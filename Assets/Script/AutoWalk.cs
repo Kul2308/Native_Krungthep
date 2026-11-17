@@ -23,14 +23,14 @@ public class AutoWalk : MonoBehaviour
 
     void Update()
     {
-        if (isJumping) return;   // stop walking while jumping
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Jump();
+        }
+
+        if (isJumping) return;
 
         transform.Translate(Vector3.right * dir * speed * Time.deltaTime);
-
-        if (transform.position.x > startX + distance) dir = -1;
-        else if (transform.position.x < startX - distance) dir = 1;
-
-        sr.flipX = (dir == 1);
     }
 
     public void Jump()

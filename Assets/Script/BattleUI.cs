@@ -30,7 +30,7 @@ public class BattleUI : MonoBehaviour
     {
         // ตั้งสีแถบ + ซ่อนปุ่มกลมๆ (handle) + สร้างตัวเลขบนแถบ
         hpLabel = SetupBar(playerHP, new Color(0.25f, 0.8f, 0.3f));
-        stmLabel = SetupBar(playerStamina, new Color(1f, 0.8f, 0.1f));
+        stmLabel = SetupBar(playerStamina, new Color(0.9882f, 0.6745f, 0.0f, 1.0f));
         ultiLabel = SetupBar(playerUlti, new Color(0.7f, 0.3f, 0.9f));
         bossHpLabel = SetupBar(bossHP, new Color(0.85f, 0.15f, 0.15f));
     }
@@ -55,6 +55,7 @@ public class BattleUI : MonoBehaviour
         t.color = Color.white;
         t.enableAutoSizing = true;
         t.fontSizeMin = 10; t.fontSizeMax = 28;
+        t.fontStyle = FontStyles.Bold;
         t.outlineWidth = 0.25f;
         t.outlineColor = new Color32(0, 0, 0, 255);
         t.raycastTarget = false;

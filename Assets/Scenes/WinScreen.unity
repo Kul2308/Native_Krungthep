@@ -861,7 +861,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nextLevelScene: Level2
-  mainMenuScene: MainMenu
+  mainMenuScene: Main_Menu
   gameScene: Test2DMovingScene
   audioSource: {fileID: 817262533}
   clickSound: {fileID: 8300000, guid: 44b1b259e41aa1f449775e53038857ef, type: 3}

@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class AutoWalk : MonoBehaviour
@@ -31,6 +31,19 @@ public class AutoWalk : MonoBehaviour
         if (isJumping) return;
 
         transform.Translate(Vector3.right * dir * speed * Time.deltaTime);
+
+        // ถึงขอบขวา -> หันซ้าย, ถึงขอบซ้าย -> หันขวา
+        float offset = transform.position.x - startX;
+        if (offset >= distance)
+        {
+            dir = -1;
+            sr.flipX = true;
+        }
+        else if (offset <= 0f)
+        {
+            dir = 1;
+            sr.flipX = false;
+        }
     }
 
     public void Jump()
@@ -56,6 +69,7 @@ public class AutoWalk : MonoBehaviour
         transform.position = new Vector3(transform.position.x, startY, transform.position.z);
         isJumping = false;
     }
+
     public void JumpThenLoad(string sceneName)
     {
         if (!isJumping) StartCoroutine(JumpLoadRoutine(sceneName));

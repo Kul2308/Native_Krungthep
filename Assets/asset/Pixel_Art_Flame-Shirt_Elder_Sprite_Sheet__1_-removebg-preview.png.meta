@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 02d76b210b5763a4db72039228429cca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -655890967063656755
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_0
+  - first:
+      213: -2502362236026141531
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_1
+  - first:
+      213: 4368719519391567173
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_2
+  - first:
+      213: 6753230513150627505
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_3
+  - first:
+      213: -8635041120566668102
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_4
+  - first:
+      213: -8541892968605587482
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_5
+  - first:
+      213: -3180666248296840645
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_6
+  - first:
+      213: -8538284179239760500
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_7
+  - first:
+      213: 6964229450288354019
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_8
+  - first:
+      213: 2547004462350004406
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_9
+  - first:
+      213: 1400835447945151491
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_10
+  - first:
+      213: 2646036091071574987
+    second: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 75
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc688c8f3aec5e6f0800000000000000
+      internalID: -655890967063656755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 223
+        width: 76
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a44f4eedc2d54dd0800000000000000
+      internalID: -2502362236026141531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 74
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d46a4a14fc0ac30800000000000000
+      internalID: 4368719519391567173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 87
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be0cae1f5b48bd50800000000000000
+      internalID: 6753230513150627505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 225
+        width: 81
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab49bbbe9db2a2880800000000000000
+      internalID: -8635041120566668102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 223
+        width: 76
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e76bd81a99157980800000000000000
+      internalID: -8541892968605587482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 26
+        width: 78
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32413926e00cd3d0800000000000000
+      internalID: -3180666248296840645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 26
+        width: 78
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d8319d6cbe18980800000000000000
+      internalID: -8538284179239760500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 26
+        width: 76
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e250c679c9e5a060800000000000000
+      internalID: 6964229450288354019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 26
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0f4bb5017c85320800000000000000
+      internalID: 2547004462350004406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 25
+        width: 78
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304cb8ffa64c07310800000000000000
+      internalID: 1400835447945151491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 25
+        width: 71
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc33f273ecb98b420800000000000000
+      internalID: 2646036091071574987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 11f97e6ad1bd7914bba1b8a799e74a43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_0: -655890967063656755
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_1: -2502362236026141531
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_10: 1400835447945151491
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_11: 2646036091071574987
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_2: 4368719519391567173
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_3: 6753230513150627505
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_4: -8635041120566668102
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_5: -8541892968605587482
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_6: -3180666248296840645
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_7: -8538284179239760500
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_8: 6964229450288354019
+      Pixel_Art_Flame-Shirt_Elder_Sprite_Sheet__1_-removebg-preview_9: 2547004462350004406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
